@@ -1,0 +1,3 @@
+Icons: https://icons8.com/icon/set/media-controls/ios-filled
+Engine: https://stackoverflow.com/questions/63599903/how-can-i-play-a-youtube-video-selenium
+App GUI: https://github.com/flatplanet/Intro-To-TKinter-Youtube-Course/blob/master/player.py
